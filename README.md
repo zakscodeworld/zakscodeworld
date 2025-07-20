@@ -57,7 +57,7 @@ Here are a few projects I've worked on.
     <img src="https://img.shields.io/badge/Say_Hello!-Email-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
   &nbsp;
-  <a href="linkedin.com/zakariabenoujja">
+  <a href="linkedin.com/in/zakariabenoujja">
     <img src="https://img.shields.io/badge/Connect-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </p>
