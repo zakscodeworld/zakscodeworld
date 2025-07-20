@@ -31,7 +31,7 @@ Here are a few projects I've worked on.
 
 | Project                                     | Description                                                                                                   | Technologies Used                          |
 | ------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | ------------------------------------------ |
-| **[StudyMate Flashcard App](https://zaksprojekts.de/studymate)** | An interactive web app for creating and studying digital flashcards using a spaced repetition algorithm.   | `JavaScript` `Node.js` `HTML` `CSS`        |
+| **[StudyMate Flashcard App](https://zaksprojects.de/studymate)** | An interactive web app for creating and studying digital flashcards using a spaced repetition algorithm.   | `JavaScript` `Node.js` `HTML` `CSS`        |
 | **Time Tracking App** | An internal tool for digital time tracking, management, and reporting for teams and individuals.                 | `Python` `JavaScript`                      |
 | **System Monitoring Scripts** | A collection of shell scripts to automate server status checks and service monitoring.                        | `Shell` `Bash`                             |
 
